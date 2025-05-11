@@ -17,5 +17,6 @@ _4. Iterative GWAS: Genome-wide association studies are conducted iteratively us
 
 This approach enables host genome inference from microbiome data in settings where dedicated host sequencing is unavailable or not feasible.
 
-📁 Please check the cmd.sh file for a step-by-step implementation.
-📄 For detailed methodology and results, see the preprint: https://www.biorxiv.org/content/10.1101/2025.05.01.651599v1
+📁 Please check the __cmd.sh__ file for a step-by-step implementation.
+
+_For detailed methodology and results, see the preprint: https://www.biorxiv.org/content/10.1101/2025.05.01.651599v1_
