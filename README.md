@@ -9,4 +9,5 @@ A post-processing method that applies BLASTN to assembled contigs to screen for 
 _📄 the preprint: https://www.biorxiv.org/content/10.1101/2025.05.01.651599v1_
 
 - _Scripts require path modifications to match your local environment, including references to programs and cluster-specific directories. Please contact us if you need further clarification or input file format descriptions:_
+
   Dr. Hoon Je Seong (hoonje@ksnu.ac.kr)
