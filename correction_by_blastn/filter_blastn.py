@@ -64,4 +64,3 @@ with open(out,'w') as O:
       if not j in taxon_dic:
         continue
       O.write(i+'\t'+j+'\t'+taxon_dic[j]+'\t'+str(filter_set[i][j])+'\n')
-x
